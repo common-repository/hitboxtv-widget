@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hitbox.TV Widget\n"
+"POT-Creation-Date: 2015-05-07 23:38+0100\n"
+"PO-Revision-Date: 2015-05-07 23:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: SpiffyTek (http://spiffytek.de)\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/functions.php:29
+msgid "Unknown channel"
+msgstr "Unbekannter Kanal"
+
+#: includes/functions.php:34
+msgid "Failed to connect to hitbox.tv api."
+msgstr "Es konnte keine Verbindung zur hitbox.tv API hergestellt werden."
+
+#: includes/functions.php:64
+msgid "Offline"
+msgstr "Offline"
+
+#: includes/options.php:36
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben keine ausreichende Berechtigung, um auf diese Seite zuzugreifen."
+
+#: includes/options.php:87
+msgid "Enable cache"
+msgstr "Aktiviere Cache"
+
+#: includes/options.php:92
+msgid "Cache lifetime"
+msgstr "Cache Lebenszeit"
+
+#: includes/options.php:93
+msgid "(seconds)"
+msgstr "(Sekunden)"
+
+#: includes/options.php:99
+msgid "Hide unknown channels"
+msgstr "Unbekannte Kanäle verstecken"
+
+#: includes/widget.php:24
+msgid "Hitbox.TV Widget"
+msgstr "Hitbox.TV Widget"
+
+#: includes/widget.php:47
+msgid "Widget Title"
+msgstr "Widget Titel"
+
+#: includes/widget.php:51
+msgid "Channel or multiple channels seperated by comma"
+msgstr "Ein oder mehrere, mit Komma getrennte, Kanäle"
+
+#: includes/widget.php:56
+msgid "Hide offline channels"
+msgstr "Kanäle die offline sind verstecken"
+
+#: includes/widget.php:60
+msgid "Hide channel message"
+msgstr "Kanal-Nachricht verstecken"
+
+#: includes/widget.php:64
+msgid "Hide preview image"
+msgstr "Vorschaubild verstecken"
